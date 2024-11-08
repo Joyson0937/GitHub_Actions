@@ -1,0 +1,23 @@
+1. What is GIT
+2. What is GIT HUB
+3. Is GIT related to GIT HUB
+4. A simple workflow
+
+
+GIT - VCS - version control system
+to track changes in files / folders
+to collaborate in teams
+free and open source
+
+Centralised VCS    |    Distributed VCS
+
+GIT = DVCS
+
+——————————————————
+
+GIT HUB - website to upload your repositories online
+provides backup 
+provides visual interface to your repo
+makes collaboration easier
+
+GIT  !=  GIT HUB
